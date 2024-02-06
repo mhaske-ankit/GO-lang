@@ -1,0 +1,12 @@
+go 1.20
+
+use (
+	"./Functions continued"
+	./Constants
+	./Type_inference
+	./Variables_initializers
+	./functions
+	./functions_swap
+	./packages
+	./variables
+)
