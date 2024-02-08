@@ -1,0 +1,8 @@
+Maps:
+
+Maps are like a dictionary where you look up words to find their meanings.
+In Go, you use maps when you have pairs of things that go together, like a name and a phone number.
+Think of a map as a box where you can put stuff in and find it quickly by its label.
+
+
+Maps help you find things quickly by their names.

@@ -1,0 +1,9 @@
+go 1.20
+
+use (
+	./Map_literals
+	./Map_literals_continued
+	./Mutating_Maps
+	./map
+	./maps2
+)
